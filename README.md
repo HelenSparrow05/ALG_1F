@@ -15,16 +15,7 @@
 - [Podmínka](#podm%C3%ADnka)
   - [Rozdíl mezi přiřazením a porovnáním](#rozd%C3%ADl-mezi-p%C5%99i%C5%99azen%C3%ADm-a-porovn%C3%A1n%C3%ADm)
   - [Vnořená podmínka](#vno%C5%99en%C3%A1-podm%C3%ADnka)
-- [Výroková logika](#v%C3%BDrokov%C3%A1-logika-and-or-not)
-  - [AND](#and)
-  - [OR](#or)
-  - [NOT](#not)
-- [Boolean](#boolean)
-- [Pole](#pole)
-- [Cykly](#cykly)
-  - [While](#while)
-  - [For](#for)
-  - [Do while](#do-while)
+
 
 # Základní pojmy
 ## Algoritmus – definice
@@ -222,30 +213,6 @@ Ve Flowgorithm je to tato značka.
 
 ![image](https://github.com/user-attachments/assets/9f6155be-9c01-4fef-a35e-252e899c0678)
 
-
-# Výroková logika AND OR NOT
-* Výrok je tvrzení které lze jednoznačně vyhodnotit jako true/false
-* Příklad: Venku prší.
-* Hodnota true – 1
-* Hodnota False – 0
-## AND
-* značka &&
-* vrací true pokud jsou oba výroky pravdivé
-## OR
-* značka ||
-* vrací true pokud je pravdivý alespoň jeden
-## NOT
-* značka !
-* obrátí každý výrok na výrok opačný
-* !true = false
-# Boolean
-* Datový typ do kterého můžeme ukládat hodnotu true a false
-
-# Pole
-
-# Cykly
-## While
-## For
 ## Do while
 
 
