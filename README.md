@@ -213,6 +213,5 @@ Ve Flowgorithm je to tato značka.
 
 ![image](https://github.com/user-attachments/assets/9f6155be-9c01-4fef-a35e-252e899c0678)
 
-## Do while
 
 
