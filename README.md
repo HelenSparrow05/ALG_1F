@@ -20,11 +20,6 @@
   - [OR](#or)
   - [NOT](#not)
 - [Boolean](#boolean)
-- [Pole](#pole)
-- [Cykly](#cykly)
-  - [While](#while)
-  - [For](#for)
-  - [Do while](#do-while)
 
 # Základní pojmy
 ## Algoritmus – definice
@@ -240,12 +235,4 @@ Ve Flowgorithm je to tato značka.
 * !true = false
 # Boolean
 * Datový typ do kterého můžeme ukládat hodnotu true a false
-
-# Pole
-
-# Cykly
-## While
-## For
-## Do while
-
 
